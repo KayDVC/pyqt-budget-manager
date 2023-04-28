@@ -4,7 +4,7 @@ This project served as a final assignment for a course in Python Programming tha
 
 It contains operations for separating transaction types, transferring money between different types, and expense/revenue adding. 
 
-Most importantly, the application heavily emphasizes data visualization with an easy-to-read graph and transaction record.
+Most importantly, the application heavily emphasizes data visualization with an easy-to-read graph that updates with every added expense and transaction record that updates with every transaction or category addition.
 
 ### GUI
 ![Typical View](./helper_assets/GUI.png)
